@@ -8,6 +8,6 @@
       ]
     }
   },
-  "postCreateCommand": "dotnet restore Lab5/Lab5.csproj"
+  "postCreateCommand": "dotnet restore Lab6/Lab6.csproj"
 }
 
